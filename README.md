@@ -65,7 +65,7 @@ SQL concepts used in the project include:
 ### 3. Tableau Dashboard
 
 An interactive Tableau dashboard was created to visualize key retail sales insights.
-![alt text](<dashboard images/retail_sales_image.png>)
+![alt text](<dashboard images/retail_sales_dashboard.jpg>)
 
 The dashboard includes:
 
